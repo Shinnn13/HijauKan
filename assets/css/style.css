@@ -407,3 +407,31 @@ Deskripsi
 .team .title {
   color: black;
 }
+
+
+/* -------- Footer -------- */
+@import '~mdb-ui-kit/css/mdb.min.css';
+
+.follow-us-container {
+  margin: 2px 0 13px 45px;
+  background-color: #fff;
+  background-size: contain;
+  position: static;
+  text-align-last: center;
+}
+
+.follow-us-container h1{
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 56px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #71c55d;
+}
+
+.follow-us-container h3{
+  font-size: 17px;
+  font-weight: 200;
+  line-height: 39px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #000;
+}
