@@ -412,7 +412,7 @@ Deskripsi
 /* -------- Footer -------- */
 @import '~mdb-ui-kit/css/mdb.min.css';
 
-.follow-us-container {
+.follow-us-content {
   margin: 2px 0 13px 45px;
   background-color: #fff;
   background-size: contain;
@@ -420,7 +420,7 @@ Deskripsi
   text-align-last: center;
 }
 
-.follow-us-container h1{
+.follow-us-content h1{
   font-size: 40px;
   font-weight: 700;
   line-height: 56px;
@@ -428,7 +428,7 @@ Deskripsi
   color: #71c55d;
 }
 
-.follow-us-container h3{
+.follow-us-content h3{
   font-size: 17px;
   font-weight: 200;
   line-height: 39px;
